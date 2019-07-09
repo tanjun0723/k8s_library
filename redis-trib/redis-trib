@@ -1,1 +1,1 @@
-FROM redis-trib
+FROM zvelo/redis-trib
